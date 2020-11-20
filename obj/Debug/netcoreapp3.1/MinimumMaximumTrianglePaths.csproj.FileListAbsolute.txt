@@ -1,0 +1,13 @@
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.AssemblyInfo.cs
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.exe
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.deps.json
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.runtimeconfig.json
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.dll
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\bin\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.pdb
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.dll
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.pdb
+C:\Users\mehme\source\repos\MinimumMaximumTrianglePaths\MinimumMaximumTrianglePaths\obj\Debug\netcoreapp3.1\MinimumMaximumTrianglePaths.genruntimeconfig.cache
