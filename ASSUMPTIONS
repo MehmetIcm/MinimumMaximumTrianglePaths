@@ -1,0 +1,4 @@
+We have to think like matrix beacuse we want to sort of every value
+But It's not a martix beacuse every row lenght is dynamic
+So we can make list with lists
+And we can get with loops every value
