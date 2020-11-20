@@ -6,6 +6,9 @@ namespace MinimumMaximumTrianglePaths
 {
     class Program
     {
+        static int minSumPath(ref List<List<int>> A)
+        {
+        }
         //We want to short a kind of matrix but it's not a square, it's a triangle. So if we make generic list with lists we can make a triangle
         public static void Main()
         {
